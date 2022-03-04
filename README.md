@@ -1,4 +1,4 @@
-# Plural-Atalhos
+# Plurall-Atalhos
 Extensão com atalhos para a plataforma Plural 
 
 ## Como instalar?
