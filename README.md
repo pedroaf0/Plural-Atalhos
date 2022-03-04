@@ -1,5 +1,23 @@
+<!-- Primary Meta Tags -->
+<meta name="title" content="Plurall-Atalhos ">
+<meta name="description" content="Extensão com atalhos para a plataforma Plurall">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://plurall.pedroaf0.cf/">
+<meta property="og:title" content="Plurall-Atalhos ">
+<meta property="og:description" content="Extensão com atalhos para a plataforma Plurall">
+<meta property="og:image" content="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://plurall.net&size=128">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://plurall.pedroaf0.cf/">
+<meta property="twitter:title" content="Plurall-Atalhos ">
+<meta property="twitter:description" content="Extensão com atalhos para a plataforma Plurall">
+<meta property="twitter:image" content="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://plurall.net&size=128">
+
 # Plurall-Atalhos
-Extensão com atalhos para a plataforma Plural 
+Extensão com atalhos para a plataforma Plurall
 
 ## Como instalar?
 
