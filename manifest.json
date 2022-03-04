@@ -1,0 +1,43 @@
+{
+	"manifest_version": 2,
+	"name": "Plural Atalhos by @pedroaf0",
+	"version": "1.0.0",
+	"description": "Atalhos para o Plural\nhttps://github.com/pedroaf0/Plural-Atalhos",
+	"icons":
+	{
+		"16": "img/icon.png",
+		"48": "img/icon.png",
+		"128": "img/icon.png"
+	},
+	"commands": {
+		"Proximo": {
+            "suggested_key": {
+              "default": "Ctrl+1",
+              "mac": "Ctrl+1"
+            },
+			"description": "Proximo exercício"
+		  },
+		"Anterior": {
+            "suggested_key": {
+              "default": "Ctrl+2",
+              "mac": "Ctrl+1"
+            },
+			"description": "Exercício anterior"
+		  }
+
+	},
+	"browser_action":
+	{
+		"default_icon": "img/icon.png",
+		"default_title": "Atalhos Plural"
+	},
+	"permissions":
+	[
+		"declarativeContent",
+		"tabs"
+	],
+	"background":
+	{
+		"scripts": ["js/background.js"]
+	}
+}
