@@ -7,14 +7,14 @@
 <meta property="og:url" content="http://plurall.pedroaf0.cf/">
 <meta property="og:title" content="Plurall-Atalhos ">
 <meta property="og:description" content="Extensão com atalhos para a plataforma Plurall">
-<meta property="og:image" content="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://plurall.net&size=128">
+<meta property="og:image" content="https://raw.githubusercontent.com/pedroaf0/Plurall-Atalhos/main/img/icon.png">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="http://plurall.pedroaf0.cf/">
 <meta property="twitter:title" content="Plurall-Atalhos ">
 <meta property="twitter:description" content="Extensão com atalhos para a plataforma Plurall">
-<meta property="twitter:image" content="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://plurall.net&size=128">
+<meta property="twitter:image" content="https://raw.githubusercontent.com/pedroaf0/Plurall-Atalhos/main/img/icon.png">
 
 # Plurall-Atalhos
 Extensão com atalhos para a plataforma Plurall
